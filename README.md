@@ -2,10 +2,10 @@
 <p align="center">
 Estou cursando Análise e Desenvolvimento de Sistemas.</p>
 
-<p>
-<img src="https://camo.githubusercontent.com/dcbe1e7ac7473c64f8f954e7cdc84b55b0ac9d68c6e8df5ec9b1627682bcb684/68747470733a2f2f692e696d6775722e636f6d2f645669704556382e676966">
+<p align="center">
+<img width="200" src="https://camo.githubusercontent.com/dcbe1e7ac7473c64f8f954e7cdc84b55b0ac9d68c6e8df5ec9b1627682bcb684/68747470733a2f2f692e696d6775722e636f6d2f645669704556382e676966">
 </p>
-<h3 align="center">Full-stack Developer</h3>
+<p style="font-size: 2em; margin-top: -30px;" align="center">Full-stack Developer</p>
 
 ---
 
@@ -13,10 +13,6 @@ Estou cursando Análise e Desenvolvimento de Sistemas.</p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=043vinicius&show_icons=true&bg_color=00000000" alt="043vinicius's GitHub stats" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=043vinicius&background=00000000" alt="043vinicius's GitHub streak" />
 </p>
 
 <p align="center">
